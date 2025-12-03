@@ -4,6 +4,7 @@ __pycache__/
 *.pyo
 
 # Virtual environments
+polar_venv/
 env/
 .venv/
 env_*/
