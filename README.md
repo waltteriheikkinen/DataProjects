@@ -1,2 +1,2 @@
 # DataProjects
-Repository for data projects
+Repository for data projects. Scripts analyze mainly data exported from Polar.
